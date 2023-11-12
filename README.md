@@ -11,7 +11,8 @@ To run the code you will need to install Python in your device. The code uses th
 - Scipy
 - Geopandas
   
-Ensure that the Us_Arrests.csv is in the same directory as the Python file in order for it to run without error
+Ensure that the Us_Arrests.csv is in the same directory as the Python file in order for it to run without error.
+
 Ensure that all the following files are also in the same directory as the Python file in order to correctly generate geographical visualisations with Geopandas: 'tl_2021_us_state.cpg', 'tl_2021_us_state.dbf', 'tl_2021_us_state.prj', 'tl_2021_us_state.shp', 'tl_2021_us_state.shp.ea.iso.xml', 'tl_2021_us_state.shp.iso.xml', and 'tl_2021_us_state.shx'.
 ### Project Overview
 - Data Preprocessing
